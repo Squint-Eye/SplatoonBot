@@ -1,0 +1,12 @@
+git+https://github.com/Rapptz/discord.py@rewrite
+discord
+traceback
+aiosqlite
+datetime
+asyncio
+sqlite3
+random
+aiohttp
+sys
+os
+psutil
