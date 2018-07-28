@@ -1,2 +1,11 @@
+# Windows stuff
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
 
+# Mac stuff
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
